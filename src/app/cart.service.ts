@@ -28,4 +28,9 @@ export class CartService {
     private http: HttpClient
   ) {}
 
+ // getAirbnb( airbnb:string){
+    
+  //  return this.http.get<Product>('http://localhost:8080'+airbnb);
+  // }
+
 }
